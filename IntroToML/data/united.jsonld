@@ -1,0 +1,12 @@
+{"@context": "http://schema.org",
+   "@type": "Organization",
+   "url": "http://united.com",
+   "contactPoint":
+   [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+1-800-864-8331",
+        "contactType": "customer service"
+      }
+    ]
+  }
